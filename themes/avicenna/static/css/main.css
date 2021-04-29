@@ -1,9 +1,8 @@
-/* Ubuntu, Ubuntu */
-@import url(https://fonts.googleapis.com/css?family=Ubuntu);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans&display=swap');
+@import url(https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css);
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 300;
   color: #333;
   line-height: 1.5;
@@ -95,7 +94,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Ubuntu, raleway, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   line-height: 1.2;
   color: #330;
   font-weight: 100;
@@ -251,7 +250,7 @@ ul {
   /* color: #a00; */
   font-size: 14px;
   display: block;
-  font-family: "Ubuntu Mono";
+  font-family: "IBM Plex Mono";
   font-weight: bolder;
 }
 
@@ -259,7 +258,7 @@ ul {
   /* color: #a00; */
   /* font-size: 14px; */
   /* display: block; */
-  font-family: Ubuntu;
+  font-family: "IBM Plex Sans", sans-serif;
   /* font-weight: bolder; */
 }
 
@@ -285,7 +284,7 @@ ul {
 }
 
 .page_title {
-  font-family: Ubuntu;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: bolder;
   font-size: 1.5em;
   margin-top: 10%;
@@ -294,7 +293,7 @@ ul {
 
 .page_meta {
   display: block;
-  font-family: "Ubuntu Mono";
+  font-family: "IBM Plex Mono";
   font-size: 14px;
 }
 
@@ -305,7 +304,7 @@ ul {
 .email {
   /* color: #a00; */
   font-size: 16px;
-  font-family: "Ubuntu Mono";
+  font-family: "IBM Plex Mono";
   font-weight: bolder;
 }
 
@@ -329,13 +328,13 @@ ul {
 }
 
 .code_blog {
-    font-family: "Ubuntu Mono";
+    font-family: "IBM Plex Mono";
     font-size: 14px;
     margin: 0em .9em 0em;
 }
 
 .blog_cv {
-    font-family: "Ubuntu Mono";
+    font-family: "IBM Plex Mono";
     font-size: 17px;
     /* margin: 0em .9em 0em; */
 }
