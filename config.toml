@@ -12,7 +12,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of St Andrews"
   position = "Computer Science MSci Student"
-  contact = "scott2000jones@gmail.com | saj7@st-andrews.ac.uk"
+  contact = "scott2000jones@gmail.com"
 
 [[params.social]]
   name = "GitHub"
@@ -23,6 +23,11 @@ timeout=3000
   name = "LinkedIn"
   icon = "linkedin"
   url = "https://linkedin.com/in/scott2000jones/"
+
+[[params.social]]
+  name = "Email"
+  icon = "mail"
+  url = "mailto:scott2000jones@gmail.com"
 
 
 [[params.introduction.paragraph]]
@@ -39,27 +44,3 @@ timeout=3000
 	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
 	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
   """
-
-
-[[params.projects]]
-	[[params.projects.project]]
-		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = "https://ablogpost.com"
-
- [[params.projects.project]]
-		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = ""
-
- [[params.projects.project]]
-		name = "Integer eget aliquet nibh praesent tristique magna"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = ""
-		blog_link = "https://ablogpost.com"
-

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans&display=swap');
-@import url(https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css);
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css');
 
 body {
   font-family: "IBM Plex Sans", sans-serif;
@@ -11,7 +11,7 @@ body {
 
 a,
 a:hover {
-  color: #a00;
+  color: #8a4baf;
   text-decoration: none;
 }
 
@@ -66,7 +66,7 @@ blockquote {
   font-size: 1.4rem;
   font-family: Georgia, bitstream charter, serif;
   border-left: 3px solid;
-  border-color: #a00;
+  border-color: #8a4baf;
   padding-left: 20px;
 }
 
@@ -80,7 +80,7 @@ span {
 
 a,
 a:hover {
-  color: #a00;
+  color: #8a4baf;
   text-decoration: none;
 }
 
@@ -247,11 +247,11 @@ ul {
 }
 
 .header .site-affilation .email {
-  /* color: #a00; */
   font-size: 14px;
   display: block;
   font-family: "IBM Plex Mono";
   font-weight: bolder;
+  color: #8a4baf;
 }
 
 .header .site-affilation .position {
@@ -302,7 +302,7 @@ ul {
 }
 
 .email {
-  /* color: #a00; */
+  color: #8a4baf;
   font-size: 16px;
   font-family: "IBM Plex Mono";
   font-weight: bolder;
