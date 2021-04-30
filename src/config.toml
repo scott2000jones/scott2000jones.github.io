@@ -36,7 +36,7 @@ timeout=3000
   """
 [[params.introduction.paragraph]]
   text="""
-  This site has quick links to my GitHub, LinkedIn, and my CV which gives a complete summary of my work and experience so far. Most of my work for my degree so far has been in C, Java, and Python, although I also have experience in Haskell, Go, and JavaScript, in particular with the React framework.
+  This site has quick links to my GitHub, LinkedIn, and my CV, which gives a complete summary of my work and experience so far. Most of my work for my degree has been in C, Java, and Python, although I also have experience in Haskell, Go, and JavaScript, in particular with the React framework.
   """
 
 # [[params.introduction.paragraph]]
