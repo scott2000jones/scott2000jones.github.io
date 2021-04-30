@@ -1,4 +1,4 @@
-baseURL = "https://scott2000jones.github.io"
+baseURL = ""
 publishDir = "../"
 languageCode = "en-gb"
 title = "Scott Jones"
