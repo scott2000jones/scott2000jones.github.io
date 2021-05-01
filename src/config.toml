@@ -6,7 +6,6 @@ theme = "avicenna"
 timeout=3000
 
 [params]
-  subtitle= "Computer Science student at the University of St Andrews"
   cv_name= "cv.pdf"
 
 [[params.affilation]]
